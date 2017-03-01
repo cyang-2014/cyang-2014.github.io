@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first post!
+title: You're up and running!
 ---
 
 I made my first post through editing this one "Hellow world" markdown file from [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
